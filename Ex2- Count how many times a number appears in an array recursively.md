@@ -2,7 +2,7 @@
 
 ## AIM:
 To write a Java program to Count how many times a number appears in an array recursively.
-
+## DATE : 31.07.2026
 ## Algorithm
 1. Start the program.
 2. Read the size of the array and input all elements into the array. 
